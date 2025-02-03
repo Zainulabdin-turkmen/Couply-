@@ -6,3 +6,7 @@ body {
   display: flex;
   gap: 6px;
 }
+
+.links {
+  display: none;
+}
