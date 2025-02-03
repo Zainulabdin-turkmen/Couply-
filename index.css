@@ -4,6 +4,11 @@ body {
 
 .logo {
   display: flex;
+  justify-content: space-between;
+}
+
+.img-h1 {
+  display: flex;
   gap: 6px;
 }
 
