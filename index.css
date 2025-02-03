@@ -12,6 +12,11 @@ body {
   gap: 6px;
 }
 
+.khat {
+  display: flex;
+  align-items: center;
+}
+
 .links {
   display: none;
 }
