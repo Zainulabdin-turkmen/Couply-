@@ -10,3 +10,7 @@ body {
 .links {
   display: none;
 }
+
+.tear {
+  display: none;
+}
