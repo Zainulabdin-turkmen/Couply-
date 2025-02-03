@@ -1,3 +1,8 @@
 body {
   background-color: #e8f5e2;
 }
+
+.logo {
+  display: flex;
+  gap: 6px;
+}
