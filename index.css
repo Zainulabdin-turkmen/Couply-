@@ -1,5 +1,6 @@
 body {
   background-color: #e8f5e2;
+  margin: 0;
 }
 
 .logo {
@@ -25,4 +26,8 @@ body {
 
 .tear {
   display: none;
+}
+
+.date {
+  border: 1px solid #000000;
 }
