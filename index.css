@@ -47,3 +47,10 @@ body {
 .imgs {
   display: flex;
 }
+
+.imgs-2,
+.imgs-3,
+.imgs-4,
+.imgs-5 {
+  margin-left: -10px;
+}
