@@ -31,3 +31,10 @@ body {
 .date {
   border: 1px solid #000000;
 }
+
+.h1 {
+  padding-top: 2rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  text-align: center;
+}
