@@ -69,3 +69,12 @@ body {
   border-radius: 100%;
   text-align: center;
 }
+
+.h1-2 {
+  background-color: black;
+  color: white;
+  width: 29px;
+  height: 29px;
+  border-radius: 100%;
+  text-align: center;
+}
