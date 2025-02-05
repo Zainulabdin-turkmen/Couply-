@@ -128,3 +128,7 @@ body {
 span {
   color: #608a4d;
 }
+
+.last-div {
+  display: flex;
+}
