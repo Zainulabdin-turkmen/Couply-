@@ -133,4 +133,9 @@ span {
   display: flex;
   gap: 0.5rem;
   background-color: #9bc588;
+  padding-left: 81px;
+  margin-left: 20px;
+  margin-right: 28px;
+  align-items: center;
+  border-radius: 4px;
 }
