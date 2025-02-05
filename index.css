@@ -132,4 +132,5 @@ span {
 .last-div {
   display: flex;
   gap: 0.5rem;
+  background-color: #9bc588;
 }
