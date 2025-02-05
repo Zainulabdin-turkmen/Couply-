@@ -28,11 +28,11 @@ body {
   display: none;
 }
 
-.date {
+.line-1 {
   border: 1px solid #000000;
 }
 
-.h1 {
+.h1-shopping {
   padding-top: 2rem;
   padding-left: 3rem;
   padding-right: 3rem;
@@ -40,7 +40,7 @@ body {
   font-size: 2rem;
 }
 
-.h3 {
+.h3-Used {
   padding-left: 90px;
 }
 
@@ -56,7 +56,7 @@ body {
   margin-left: -10px;
 }
 
-.khat-1 {
+.line-2 {
   border: 1px solid #000000;
   margin-top: 3rem;
 }
@@ -64,9 +64,10 @@ body {
 .header-download {
   display: flex;
   gap: 1.3rem;
+  padding-top: 3.3rem;
 }
 
-.h111 {
+.number-1 {
   background-color: #000000;
   color: white;
   width: 29px;
