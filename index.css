@@ -88,7 +88,6 @@ body {
 .header-visit {
   display: flex;
   gap: 1.3rem;
-  padding-top: 3.3rem;
   padding-left: 1.3rem;
 }
 
@@ -110,7 +109,7 @@ body {
 .header-save {
   display: flex;
   gap: 1.3rem;
-  padding-top: 3.3rem;
+  /* padding-top: 3.3rem; */
   padding-left: 1.3rem;
 }
 
@@ -124,5 +123,9 @@ body {
 }
 
 .save {
-  font-weight: 400;
+  font-weight: 700;
+}
+
+span {
+  color: #608a4d;
 }
