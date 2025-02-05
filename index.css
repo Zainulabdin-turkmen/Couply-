@@ -65,6 +65,7 @@ body {
   display: flex;
   gap: 1.3rem;
   padding-top: 3.3rem;
+  padding-left: 1.3rem;
 }
 
 .number-1 {
@@ -74,4 +75,8 @@ body {
   height: 29px;
   border-radius: 100%;
   text-align: center;
+}
+
+.Download {
+  font-weight: 400;
 }
