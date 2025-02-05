@@ -10,12 +10,12 @@ body {
   padding-right: 15px;
 }
 
-.img-h1 {
+.Eraser-image {
   display: flex;
   gap: 6px;
 }
 
-.khat {
+.threa-line-image {
   display: flex;
   align-items: center;
 }
@@ -61,32 +61,16 @@ body {
   margin-top: 3rem;
 }
 
-.h1-1 {
-  background-color: black;
-  color: white;
-  width: 29px;
-  height: 29px;
-  border-radius: 100%;
-  text-align: center;
-  margin-top: 3.2rem;
+.header-download {
+  display: flex;
+  gap: 1.3rem;
 }
 
-.h1-2 {
-  background-color: black;
+.h111 {
+  background-color: #000000;
   color: white;
   width: 29px;
   height: 29px;
   border-radius: 100%;
   text-align: center;
-  margin-top: 3.5rem;
-}
-
-.h1-3 {
-  background-color: black;
-  color: white;
-  width: 29px;
-  height: 29px;
-  border-radius: 100%;
-  text-align: center;
-  margin-top: 3.7rem;
 }
