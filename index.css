@@ -74,6 +74,8 @@ h4 {
 
 .container {
   display: flex;
+  background-color: white;
+  width: 309px;
 }
 
 .laughing-girl {
