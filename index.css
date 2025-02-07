@@ -152,6 +152,9 @@ span {
   padding-left: 81px;
   margin-left: 20px;
   margin-right: 28px;
+  padding-top: 13px;
+  /* margin-top: 13px; */
+  /* margin-bottom: 13px; */
   align-items: center;
   border-radius: 4px;
 }
