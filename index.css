@@ -19,6 +19,7 @@ h1 {
 .Eraser-image {
   display: flex;
   gap: 6px;
+  align-items: center;
 }
 
 .Eraser {
