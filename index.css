@@ -90,6 +90,12 @@ h4 {
   border-radius: 100%;
 }
 
+.header-1-2 {
+  gap: 3px;
+  display: flex;
+  flex-direction: column;
+}
+
 .line-2 {
   border: 1px solid #000000;
   margin-top: 3rem;
