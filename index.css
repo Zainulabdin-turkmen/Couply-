@@ -3,7 +3,9 @@ body {
   margin: 0;
 }
 
-h1 {
+h1,
+h3,
+h4 {
   margin: 0;
 }
 
@@ -68,6 +70,10 @@ h1 {
 .imgs-4,
 .imgs-5 {
   margin-left: -10px;
+}
+
+.container {
+  display: flex;
 }
 
 .laughing-girl {
