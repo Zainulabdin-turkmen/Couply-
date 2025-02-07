@@ -74,6 +74,7 @@ h1 {
   width: 61px;
   height: 61px;
   object-fit: cover;
+  border-radius: 100%;
 }
 
 .line-2 {
