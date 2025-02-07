@@ -60,6 +60,7 @@ h1 {
 .imgs {
   display: flex;
   padding-left: 80px;
+  padding-top: 1rem;
 }
 
 .imgs-2,
