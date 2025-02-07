@@ -81,6 +81,7 @@ h4 {
   align-items: center;
   padding-left: 1rem;
   gap: 1.1rem;
+  display: none;
 }
 
 .laughing-girl {
