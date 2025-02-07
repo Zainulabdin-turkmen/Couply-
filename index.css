@@ -47,17 +47,19 @@ h1 {
   padding-top: 2rem;
   padding-left: 3rem;
   padding-right: 3.8rem;
+  padding-bottom: 2.1rem;
   text-align: center;
   font-size: 2rem;
 }
 
 .h3-Used {
-  padding-left: 90px;
+  padding-left: 80px;
+  display: inline;
 }
 
 .imgs {
   display: flex;
-  padding-left: 90px;
+  padding-left: 80px;
 }
 
 .imgs-2,
