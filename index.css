@@ -73,6 +73,7 @@ h1 {
 .laughing-girl {
   width: 61px;
   height: 61px;
+  object-fit: cover;
 }
 
 .line-2 {
