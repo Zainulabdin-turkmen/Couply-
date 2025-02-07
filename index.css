@@ -21,6 +21,10 @@ h1 {
   gap: 6px;
 }
 
+.Eraser {
+  width: 21px;
+  height: 21px;
+}
 .threa-line-image {
   display: flex;
   align-items: center;
