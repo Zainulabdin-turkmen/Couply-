@@ -190,6 +190,8 @@ span {
 }
 
 .later {
+  display: flex;
+  flex-direction: column;
   background-color: #000000;
   height: 320px;
 }
