@@ -194,4 +194,10 @@ span {
   flex-direction: column;
   background-color: #000000;
   height: 320px;
+  gap: 44px;
+}
+
+.amazon-best {
+  display: flex;
+  gap: 119px;
 }
