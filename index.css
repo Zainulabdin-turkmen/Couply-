@@ -190,9 +190,6 @@ span {
 }
 
 .later {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 44px;
   background-color: #000000;
   height: 320px;
 }
