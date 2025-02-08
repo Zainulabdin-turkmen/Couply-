@@ -188,3 +188,7 @@ span {
   border: 2px solid #000000;
   box-shadow: 4px 4px 0px 0px #000000;
 }
+
+.later {
+  display: grid;
+}
