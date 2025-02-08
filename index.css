@@ -201,3 +201,8 @@ span {
   display: flex;
   gap: 119px;
 }
+
+.shopify-walmart {
+  display: flex;
+  gap: 77px;
+}
