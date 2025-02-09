@@ -4,6 +4,7 @@ body {
 }
 
 h1,
+h2,
 h3,
 h4 {
   margin: 0;
@@ -212,8 +213,12 @@ span {
 .women-shoes-1 {
   background-image: url(./imgs/women-shoes.jpeg);
   background-size: cover;
+  background-position: 0;
   width: 349px;
   height: 205px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .first {
@@ -227,7 +232,13 @@ span {
   background-color: black;
   color: white;
   width: 94px;
-  height: 60px;
+  height: 50px;
   text-align: center;
   border-radius: 3px;
+  align-self: end;
+  padding-top: 17px;
+}
+
+.first-1 h1 {
+  font-size: 25px;
 }
