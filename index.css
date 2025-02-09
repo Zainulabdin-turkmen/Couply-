@@ -208,3 +208,9 @@ span {
   display: flex;
   gap: 77px;
 }
+
+.women-shoes-1 {
+  background-image: url(./imgs/women-shoes.jpeg);
+  width: 349px;
+  height: 500px;
+}
