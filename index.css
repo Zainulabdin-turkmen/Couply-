@@ -211,6 +211,7 @@ span {
 
 .women-shoes-1 {
   background-image: url(./imgs/women-shoes.jpeg);
+  background-size: cover;
   width: 349px;
-  height: 500px;
+  height: 205px;
 }
