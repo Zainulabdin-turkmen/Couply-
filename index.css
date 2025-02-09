@@ -219,4 +219,6 @@ span {
 .first {
   background-color: white;
   padding-top: 18px;
+  padding-left: 20px;
+  padding-bottom: 18px;
 }
