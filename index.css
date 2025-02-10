@@ -223,6 +223,7 @@ span {
   margin-left: 12px;
   border: 2px solid #000000;
   box-shadow: 4px 4px 0px 0px #000000;
+  border-radius: 4px;
 }
 
 .first {
@@ -259,4 +260,5 @@ span {
   margin-top: 18px;
   margin-left: 12px;
   border: 2px solid #000000;
+  box-shadow: 4px 4px 0px 0px #000000;
 }
