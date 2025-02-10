@@ -327,4 +327,5 @@ span {
 .eye-view {
   display: flex;
   gap: 11px;
+  margin: 75px 90px;
 }
