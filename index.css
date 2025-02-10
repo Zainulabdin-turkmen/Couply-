@@ -304,4 +304,9 @@ span {
 .thirth-1 {
   background-color: #000000;
   color: white;
+  width: 94px;
+  height: 40px;
+  text-align: center;
+  padding-top: 17px;
+  align-self: end;
 }
