@@ -329,3 +329,10 @@ span {
   gap: 11px;
   margin: 75px 90px;
 }
+
+.View {
+  color: black;
+  font-size: 22px;
+  display: flex;
+  align-items: center;
+}
