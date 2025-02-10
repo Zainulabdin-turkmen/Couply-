@@ -284,6 +284,7 @@ span {
   background-position: 0%;
   width: 349px;
   height: 204px;
+  margin-top: 18px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
