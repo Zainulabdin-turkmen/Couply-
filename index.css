@@ -244,10 +244,6 @@ span {
   padding-top: 17px;
 }
 
-.first-1 h1 {
-  font-size: 25px;
-}
-
 .women-shoes-2 {
   background-image: url(./imgs/pen-color.jpeg);
   background-size: cover;
@@ -266,8 +262,16 @@ span {
 
 .second {
   background-color: white;
-  color: black;
   padding-top: 18px;
   padding-bottom: 18px;
   padding-left: 20px;
+}
+
+.second-1 {
+  background-color: black;
+  color: white;
+  width: 94px;
+  height: 40px;
+  align-self: end;
+  text-align: center;
 }
