@@ -254,4 +254,5 @@ span {
   width: 349px;
   height: 204px;
   display: flex;
+  flex-direction: column;
 }
