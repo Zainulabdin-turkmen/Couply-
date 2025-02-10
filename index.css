@@ -1,5 +1,4 @@
 body {
-  background-color: #e8f5e2;
   margin: 0;
 }
 
@@ -8,6 +7,10 @@ h2,
 h3,
 h4 {
   margin: 0;
+}
+
+header {
+  background-color: #e8f5e2;
 }
 
 .logo {
@@ -210,6 +213,12 @@ span {
   gap: 77px;
 }
 
+.main {
+  background-color: white;
+}
+
+/* first */
+
 .women-shoes-1 {
   background-image: url(./imgs/women-shoes.jpeg);
   background-size: cover;
@@ -244,6 +253,8 @@ span {
   padding-top: 17px;
 }
 
+/* second */
+
 .women-shoes-2 {
   background-image: url(./imgs/pen-color.jpeg);
   background-size: cover;
@@ -277,6 +288,8 @@ span {
   padding-top: 1rem;
   border-radius: 3px;
 }
+
+/* thirth */
 
 .women-shoes-3 {
   background-image: url(./imgs/ear-pad.jpeg);
