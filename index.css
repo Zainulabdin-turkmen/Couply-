@@ -275,4 +275,5 @@ span {
   align-self: end;
   text-align: center;
   padding-top: 1rem;
+  border-radius: 3px;
 }
