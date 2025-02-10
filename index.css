@@ -283,4 +283,5 @@ span {
   background-size: cover;
   background-position: 0%;
   display: flex;
+  flex-direction: column;
 }
