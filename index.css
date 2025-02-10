@@ -282,4 +282,5 @@ span {
   background-image: url(./imgs/ear-pad.jpeg);
   background-size: cover;
   background-position: 0%;
+  display: flex;
 }
