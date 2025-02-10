@@ -277,3 +277,8 @@ span {
   padding-top: 1rem;
   border-radius: 3px;
 }
+
+.women-shoes-3 {
+  background-image: url(./imgs/ear-pad.jpeg);
+  background-size: cover;
+}
