@@ -286,6 +286,7 @@ span {
   height: 204px;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   border: 2px solid #000000;
   box-shadow: 4px 4px 0px 0px #000000;
 }
