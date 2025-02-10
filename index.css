@@ -293,3 +293,10 @@ span {
   box-shadow: 4px 4px 0px 0px #000000;
   border-radius: 4px;
 }
+
+.thirth {
+  background-color: white;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 20px;
+}
