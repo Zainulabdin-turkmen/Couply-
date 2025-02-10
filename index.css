@@ -323,3 +323,7 @@ span {
   padding-top: 17px;
   align-self: end;
 }
+
+.eye-view {
+  display: flex;
+}
