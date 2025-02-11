@@ -446,4 +446,8 @@ footer {
     color: #000000;
     font-size: 18px;
   }
+
+  .Home-line {
+    border-bottom: 2px solid #000000;
+  }
 }
