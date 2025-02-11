@@ -383,11 +383,12 @@ footer {
   display: flex;
   flex-direction: column;
   gap: 29px;
+  padding-left: 26px;
 }
 
 .links-1 {
   display: flex;
-  gap: 2rem;
+  gap: 2.5rem;
 }
 
 .links-1 a {
@@ -399,6 +400,7 @@ footer {
 .home-line {
   border-bottom: 2px solid black;
   width: 25px;
+  margin-right: 1rem;
 }
 
 .p-1 {
