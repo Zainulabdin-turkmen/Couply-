@@ -447,6 +447,8 @@ footer {
   .links {
     display: flex;
     gap: 42px;
+    padding-top: 33px;
+    padding-bottom: 32px;
   }
 
   .links a {
