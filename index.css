@@ -379,6 +379,12 @@ footer {
 
 /* second-section */
 
+.footer-container-second {
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+}
+
 .links-1 {
   display: flex;
   gap: 2rem;
