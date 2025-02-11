@@ -449,5 +449,6 @@ footer {
 
   .Home-line {
     border-bottom: 2px solid #000000;
+    width: 25px;
   }
 }
