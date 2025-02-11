@@ -336,3 +336,7 @@ span {
   display: flex;
   align-items: center;
 }
+
+.line {
+  border: 1px solid #000000;
+}
