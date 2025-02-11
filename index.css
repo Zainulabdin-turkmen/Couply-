@@ -431,4 +431,12 @@ footer {
   .tear {
     display: unset;
   }
+
+  .navbar-container {
+    /* display: flex; */
+  }
+
+  .links a {
+    text-decoration: none;
+  }
 }
