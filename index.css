@@ -9,6 +9,8 @@ h4 {
   margin: 0;
 }
 
+/* header-container */
+
 header {
   background-color: #e8f5e2;
 }
@@ -193,6 +195,8 @@ span {
   box-shadow: 4px 4px 0px 0px #000000;
 }
 
+/* section-container */
+
 .later {
   display: flex;
   flex-direction: column;
@@ -213,9 +217,7 @@ span {
   gap: 77px;
 }
 
-.main {
-  background-color: white;
-}
+/* main-container */
 
 /* first */
 
@@ -340,3 +342,5 @@ span {
 .line-3 {
   border: 1px solid #000000;
 }
+
+/* footer-container */
