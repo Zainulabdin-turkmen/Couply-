@@ -432,8 +432,16 @@ footer {
     display: unset;
   }
 
+  .logo {
+    padding: 0;
+    padding-top: 29px;
+    padding-bottom: 28px;
+    margin-right: 35px;
+  }
+
   .navbar-container {
-    /* display: flex; */
+    display: flex;
+    gap: 103px;
   }
 
   .links {
@@ -445,10 +453,5 @@ footer {
     text-decoration: none;
     color: #000000;
     font-size: 18px;
-  }
-
-  .Home-line {
-    border-bottom: 2px solid #000000;
-    width: 25px;
   }
 }
