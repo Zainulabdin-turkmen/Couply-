@@ -436,6 +436,10 @@ footer {
     /* display: flex; */
   }
 
+  .links {
+    display: flex;
+  }
+
   .links a {
     text-decoration: none;
     color: #000000;
