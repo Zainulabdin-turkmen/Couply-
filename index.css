@@ -379,6 +379,11 @@ footer {
 
 /* second-section */
 
+.links-1 {
+  display: flex;
+  gap: 2rem;
+}
+
 .links-1 a {
   color: black;
   text-decoration: none;
