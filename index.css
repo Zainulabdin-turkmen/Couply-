@@ -350,6 +350,10 @@ footer {
   background-color: #e8f5e2;
 }
 
+.footer-container-first {
+  display: flex;
+}
+
 .Eraser-image-h2 {
   display: flex;
   gap: 6px;
