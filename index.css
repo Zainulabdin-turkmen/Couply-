@@ -360,3 +360,9 @@ footer {
   gap: 6px;
   align-items: center;
 }
+
+.svg-p {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
