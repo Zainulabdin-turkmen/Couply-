@@ -350,6 +350,8 @@ footer {
   background-color: #e8f5e2;
 }
 
+/* first-section */
+
 .footer-container-first {
   display: flex;
   gap: 78px;
@@ -374,3 +376,5 @@ footer {
   display: flex;
   gap: 25px;
 }
+
+/* second-section */
