@@ -383,7 +383,7 @@ footer {
   display: flex;
   flex-direction: column;
   gap: 29px;
-  padding-left: 26px;
+  align-items: center;
 }
 
 .links-1 {
