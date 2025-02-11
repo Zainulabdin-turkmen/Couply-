@@ -394,3 +394,8 @@ footer {
   border-bottom: 2px solid black;
   width: 25px;
 }
+
+.p-1 {
+  color: #6c7667;
+  font-size: 14px;
+}
