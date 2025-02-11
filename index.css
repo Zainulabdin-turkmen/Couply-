@@ -358,11 +358,20 @@ footer {
 .Eraser-image-h2 {
   display: flex;
   gap: 6px;
-  align-items: center;
+}
+
+.Eraser-1 {
+  width: 21px;
+  height: 21px;
 }
 
 .svg-p {
   display: flex;
   flex-direction: column;
   gap: 12px;
+}
+
+.svg {
+  display: flex;
+  gap: 25px;
 }
