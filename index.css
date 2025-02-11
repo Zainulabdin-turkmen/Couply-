@@ -193,7 +193,6 @@ span {
   padding-top: 13px;
   padding-bottom: 13px;
   margin-top: 3rem;
-  /* padding-bottom: 3.3rem; */
   align-items: center;
   border-radius: 4px;
   border: 2px solid #000000;
@@ -411,4 +410,9 @@ footer {
   color: #6c7667;
   font-size: 14px;
   margin-bottom: 69px;
+}
+
+/* tablet */
+
+@media only screen and (max-width: 900px;) {
 }
