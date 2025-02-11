@@ -65,6 +65,10 @@ header {
   font-size: 2rem;
 }
 
+.Shopping-stara img {
+  display: none;
+}
+
 .h3-Used {
   padding-left: 80px;
   display: inline;
