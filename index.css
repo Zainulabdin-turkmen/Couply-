@@ -353,6 +353,7 @@ footer {
 .footer-container-first {
   display: flex;
   gap: 78px;
+  padding-left: 26px;
 }
 
 .Eraser-image-h2 {
