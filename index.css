@@ -428,6 +428,8 @@ footer {
   .navbar-container {
     display: flex;
     gap: 103px;
+    padding-left: 97px;
+    padding-right: 80px;
   }
 
   .logo {
