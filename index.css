@@ -24,7 +24,7 @@ header {
   padding-bottom: 14px;
 }
 
-.Eraser-image-h1-1 {
+.Eraser-image-h1 {
   display: flex;
   gap: 6px;
   align-items: center;
@@ -347,4 +347,10 @@ span {
 
 footer {
   background-color: #e8f5e2;
+}
+
+.Eraser-image-h2 {
+  display: flex;
+  gap: 6px;
+  align-items: center;
 }
