@@ -389,3 +389,8 @@ footer {
   text-decoration: none;
   font-size: 18px;
 }
+
+.home-line {
+  border-bottom: 2px solid black;
+  width: 25px;
+}
