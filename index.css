@@ -418,5 +418,9 @@ footer {
 
 /* tablet */
 
-@media only screen and (max-width: 900px) {
+@media only screen and (min-width: 900px) {
+  /* header-sec */
+  .threa-line-image {
+    display: none;
+  }
 }
