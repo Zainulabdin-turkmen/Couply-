@@ -420,16 +420,14 @@ footer {
 
 @media only screen and (min-width: 900px) {
   /* header-sec */
+
   .threa-line-image {
     display: none;
   }
 
-  .links {
-    display: unset;
-  }
-
-  .tear {
-    display: unset;
+  .navbar-container {
+    display: flex;
+    gap: 103px;
   }
 
   .logo {
@@ -437,11 +435,6 @@ footer {
     padding-top: 29px;
     padding-bottom: 28px;
     margin-right: 35px;
-  }
-
-  .navbar-container {
-    display: flex;
-    gap: 103px;
   }
 
   .links {
@@ -455,5 +448,11 @@ footer {
     text-decoration: none;
     color: #000000;
     font-size: 18px;
+  }
+
+  .tear {
+    display: unset;
+    padding-top: 26px;
+    padding-bottom: 26px;
   }
 }
