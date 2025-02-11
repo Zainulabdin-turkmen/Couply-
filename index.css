@@ -427,4 +427,8 @@ footer {
   .links {
     display: unset;
   }
+
+  .tear {
+    display: unset;
+  }
 }
