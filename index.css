@@ -497,4 +497,37 @@ footer {
   .h4-1 {
     color: #779469;
   }
+
+  /* second-line */
+
+  .second-line {
+    display: flex;
+    flex-direction: row;
+    gap: 57px;
+  }
+
+  .header-download {
+    padding: 0;
+    flex-direction: column;
+  }
+
+  .header-visit {
+    padding: 0;
+    flex-direction: column;
+  }
+
+  .header-save {
+    padding: 0;
+    flex-direction: column;
+  }
+
+  .last-div {
+    padding: 0;
+    margin: 0;
+    width: 235px;
+  }
+
+  .navbar {
+    padding: 0;
+  }
 }
