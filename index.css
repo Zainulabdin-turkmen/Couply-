@@ -510,6 +510,8 @@ footer {
     margin-bottom: 62px;
   }
 
+  /* 1 */
+
   .header-download {
     padding: 0;
     flex-direction: column;
@@ -520,6 +522,8 @@ footer {
     font-size: 20px;
   }
 
+  /* 2 */
+
   .header-visit {
     padding: 0;
     flex-direction: column;
@@ -529,6 +533,8 @@ footer {
   .visit {
     font-size: 20px;
   }
+
+  /* 3 */
 
   .header-save {
     padding: 0;
@@ -545,6 +551,7 @@ footer {
     margin: 0;
     width: 195px;
     padding: 13px 26px;
+    margin-left: 104px;
   }
 
   .navbar {
