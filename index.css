@@ -69,7 +69,7 @@ header {
   display: none;
 }
 
-.imgs-h3-used-container {
+.Used-imgs {
   display: flex;
   flex-direction: column;
   gap: 1rem;
@@ -88,28 +88,7 @@ header {
 }
 
 .container {
-  display: flex;
-  background-color: white;
-  width: 309px;
-  height: 89px;
-  border-radius: 44px;
-  align-items: center;
-  padding-left: 1rem;
-  gap: 1.1rem;
   display: none;
-}
-
-.laughing-girl {
-  width: 61px;
-  height: 61px;
-  object-fit: cover;
-  border-radius: 100%;
-}
-
-.header-1-2 {
-  gap: 3px;
-  display: flex;
-  flex-direction: column;
 }
 
 .line-2 {
@@ -428,7 +407,6 @@ footer {
   .navbar-container {
     display: flex;
     gap: 103px;
-    padding-left: 97px;
     padding-right: 80px;
   }
 
@@ -461,7 +439,6 @@ footer {
   .Shopping-stara {
     display: flex;
     padding-top: 79px;
-    padding-left: 97px;
     align-items: start;
   }
 
@@ -477,10 +454,33 @@ footer {
     margin-top: -11px;
   }
 
-  .imgs-h3-used-container {
+  /* Used-container */
+
+  .Used-container {
+    display: flex;
+    gap: 51px;
+  }
+
+  .Used-imgs {
+    margin: 0;
+    display: inline-block;
+  }
+
+  .imgs {
+    width: 205px;
   }
 
   .container {
     display: unset;
+    width: 309px;
+    display: flex;
+    gap: 18px;
+  }
+
+  .laughing-girl {
+    width: 61px;
+    height: 61px;
+    object-fit: cover;
+    border-radius: 100%;
   }
 }
