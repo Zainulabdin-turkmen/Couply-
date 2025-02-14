@@ -488,6 +488,12 @@ footer {
     border-radius: 100%;
   }
 
+  .header-1-2 {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+
   .h4-1 {
     color: #779469;
   }
