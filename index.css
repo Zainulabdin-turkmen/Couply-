@@ -568,6 +568,7 @@ footer {
     gap: 0;
     padding-top: 68px;
     padding-left: 104px;
+    gap: 100px;
   }
 
   .amazon-best {
@@ -577,6 +578,7 @@ footer {
 
   .shopify-walmart {
     gap: 0;
+    gap: 97px;
   }
 
   .amazon {
