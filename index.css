@@ -471,6 +471,8 @@ footer {
     gap: 18px;
     border-radius: 44px;
     background-color: white;
+    padding-left: 17px;
+    padding-right: 40px;
   }
 
   .laughing-girl {
