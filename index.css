@@ -461,4 +461,8 @@ footer {
   .Shopping-stara img {
     display: unset;
   }
+
+  .h1-shopping {
+    font-size: 45px;
+  }
 }
