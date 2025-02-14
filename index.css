@@ -503,22 +503,41 @@ footer {
   .second-line {
     display: flex;
     flex-direction: row;
-    gap: 57px;
+    gap: 52px;
+    margin-top: 58px;
+    margin-left: 104px;
+    margin-right: 102px;
+    margin-bottom: 62px;
   }
 
   .header-download {
     padding: 0;
     flex-direction: column;
+    width: 254px;
+  }
+
+  .Download {
+    font-size: 20px;
   }
 
   .header-visit {
     padding: 0;
     flex-direction: column;
+    width: 217px;
+  }
+
+  .visit {
+    font-size: 20px;
   }
 
   .header-save {
     padding: 0;
     flex-direction: column;
+    width: 236px;
+  }
+
+  .save {
+    font-size: 14px;
   }
 
   .last-div {
