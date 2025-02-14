@@ -562,14 +562,17 @@ footer {
   /* sec-section */
 
   .later {
-    height: 270px;
+    height: 200px;
     padding: 0;
     flex-direction: row;
     gap: 0;
+    padding-top: 68px;
+    padding-left: 104px;
   }
 
   .amazon-best {
     gap: 0;
+    gap: 107px;
   }
 
   .shopify-walmart {
