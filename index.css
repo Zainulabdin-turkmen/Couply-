@@ -476,4 +476,11 @@ footer {
     display: unset;
     margin-top: -11px;
   }
+
+  .imgs-h3-used-container {
+  }
+
+  .container {
+    display: unset;
+  }
 }
