@@ -487,4 +487,8 @@ footer {
     object-fit: cover;
     border-radius: 100%;
   }
+
+  .h4-1 {
+    color: #779469;
+  }
 }
