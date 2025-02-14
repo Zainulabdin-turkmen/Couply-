@@ -458,11 +458,15 @@ footer {
     padding-bottom: 26px;
   }
 
-  .Shopping-stara img {
-    display: unset;
+  .Shopping-stara {
+    display: flex;
   }
 
   .h1-shopping {
     font-size: 45px;
+  }
+
+  .Shopping-stara img {
+    display: unset;
   }
 }
