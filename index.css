@@ -73,14 +73,18 @@ header {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  margin-left: 91px;
+  margin-left: 80px;
+}
+
+.imgs {
+  display: flex;
 }
 
 .imgs-2,
 .imgs-3,
 .imgs-4,
 .imgs-5 {
-  margin-left: -10px;
+  margin-left: -15px;
 }
 
 .container {
