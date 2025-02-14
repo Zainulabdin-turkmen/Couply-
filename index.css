@@ -407,7 +407,8 @@ footer {
   .navbar-container {
     display: flex;
     gap: 103px;
-    padding-right: 80px;
+    margin-left: 97px;
+    margin-right: 80px;
   }
 
   .logo {
@@ -438,7 +439,8 @@ footer {
 
   .Shopping-stara {
     display: flex;
-    padding-top: 79px;
+    margin-top: 79px;
+    margin-left: 97px;
     align-items: start;
   }
 
