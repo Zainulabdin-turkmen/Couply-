@@ -524,7 +524,8 @@ footer {
   .last-div {
     padding: 0;
     margin: 0;
-    width: 235px;
+    width: 195px;
+    padding: 13px 26px;
   }
 
   .navbar {
