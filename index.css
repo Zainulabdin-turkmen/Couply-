@@ -474,5 +474,6 @@ footer {
 
   .Shopping-stara img {
     display: unset;
+    margin-top: -11px;
   }
 }
