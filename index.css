@@ -69,15 +69,11 @@ header {
   display: none;
 }
 
-.h3-Used {
-  padding-left: 80px;
-  display: inline;
-}
-
-.imgs {
+.imgs-h3-used-container {
   display: flex;
-  padding-left: 80px;
-  padding-top: 1rem;
+  flex-direction: column;
+  gap: 1rem;
+  margin-left: 91px;
 }
 
 .imgs-2,
