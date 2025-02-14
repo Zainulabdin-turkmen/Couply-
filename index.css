@@ -460,15 +460,16 @@ footer {
 
   .Shopping-stara {
     display: flex;
-    margin-top: 79px;
+    padding-top: 79px;
     padding-left: 97px;
+    align-items: start;
   }
 
   .h1-shopping {
     font-size: 45px;
     padding: 0;
     text-align: start;
-    width: 650px;
+    width: 630px;
   }
 
   .Shopping-stara img {
