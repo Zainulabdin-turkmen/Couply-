@@ -463,18 +463,13 @@ footer {
 
   .Used-imgs {
     margin: 0;
-    display: inline-block;
-  }
-
-  .imgs {
-    width: 205px;
   }
 
   .container {
     display: unset;
-    width: 309px;
     display: flex;
     gap: 18px;
+    border-radius: 44px;
   }
 
   .laughing-girl {
