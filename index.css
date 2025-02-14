@@ -457,4 +457,8 @@ footer {
     padding-top: 26px;
     padding-bottom: 26px;
   }
+
+  .Shopping-stara img {
+    display: unset;
+  }
 }
