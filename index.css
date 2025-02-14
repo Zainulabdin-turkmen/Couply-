@@ -556,5 +556,43 @@ footer {
 
   .navbar {
     padding: 0;
+    padding-bottom: 79px;
+  }
+
+  /* sec-section */
+
+  .later {
+    height: 270px;
+    padding: 0;
+    flex-direction: row;
+    gap: 0;
+  }
+
+  .amazon-best {
+    gap: 0;
+  }
+
+  .shopify-walmart {
+    gap: 0;
+  }
+
+  .amazon {
+    width: 106px;
+    height: 31px;
+  }
+
+  .best-boy {
+    width: 82px;
+    height: 47px;
+  }
+
+  .shopify {
+    width: 150px;
+    height: 43px;
+  }
+
+  .walmart {
+    width: 181px;
+    height: 44px;
   }
 }
