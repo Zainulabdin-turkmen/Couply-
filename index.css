@@ -470,6 +470,7 @@ footer {
     display: flex;
     gap: 18px;
     border-radius: 44px;
+    background-color: white;
   }
 
   .laughing-girl {
