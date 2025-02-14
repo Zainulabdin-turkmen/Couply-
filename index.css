@@ -461,6 +461,8 @@ footer {
   .Used-container {
     display: flex;
     gap: 51px;
+    margin-top: 3rem;
+    margin-left: 102px;
   }
 
   .Used-imgs {
@@ -476,6 +478,7 @@ footer {
     padding-left: 17px;
     padding-right: 40px;
     align-items: center;
+    margin-top: 8px;
   }
 
   .laughing-girl {
