@@ -773,4 +773,15 @@ footer {
     padding-left: 20px;
     padding-bottom: 18px;
   }
+
+  .sixth-1 {
+    background-color: #000000;
+    color: white;
+    width: 94px;
+    height: 40px;
+    text-align: center;
+    padding-top: 17px;
+    align-self: end;
+    border-radius: 3px;
+  }
 }
