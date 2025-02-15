@@ -279,6 +279,7 @@ span {
 }
 
 /* thirth */
+
 .women-shoes-3 {
   display: none;
 }
@@ -316,6 +317,12 @@ span {
   text-align: center;
   padding-top: 17px;
   align-self: end;
+}
+
+/* fifth */
+
+.women-shoes-5 {
+  display: none;
 }
 
 .eye-view {
