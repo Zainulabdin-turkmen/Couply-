@@ -343,6 +343,7 @@ span {
 
 .women-shoes-5 {
   display: none;
+  background-image: url(./imgs/women-things.jpeg);
   background-size: cover;
   background-position: 0%;
   width: 349px;
@@ -353,7 +354,8 @@ span {
   flex-direction: column;
   justify-content: space-between;
   border: 2px solid #000000;
-  box-shadow: 4px 4px 0p;
+  box-shadow: 4px 4px 0px 0px;
+  border-radius: 3px;
 }
 
 /* Sixth */
