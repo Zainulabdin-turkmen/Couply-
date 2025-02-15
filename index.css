@@ -662,6 +662,7 @@ footer {
     margin-top: -100px;
     margin-left: 65px;
     margin-right: 65px;
+    gap: 20px;
   }
 
   /* first */
