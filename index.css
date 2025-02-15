@@ -207,6 +207,7 @@ span {
 /* main-container */
 
 /* change names */
+
 .arrows-2 {
   display: none;
 }
@@ -218,6 +219,9 @@ span {
   display: none;
 }
 .Shades-5 {
+  display: none;
+}
+.headphones-6 {
   display: none;
 }
 
