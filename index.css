@@ -278,13 +278,13 @@ span {
   border-radius: 3px;
 }
 
-/* thirth */
+/* Third */
 
 .women-shoes-3 {
   display: none;
 }
 
-/* forth */
+/* Fourth */
 
 .women-shoes-4 {
   background-image: url(./imgs/ear-pad.jpeg);
@@ -302,14 +302,14 @@ span {
   border-radius: 4px;
 }
 
-.forth {
+.fourth {
   background-color: white;
   padding-top: 18px;
   padding-bottom: 18px;
   padding-left: 20px;
 }
 
-.forth-1 {
+.fourth-1 {
   background-color: #000000;
   color: white;
   width: 94px;
@@ -319,13 +319,13 @@ span {
   align-self: end;
 }
 
-/* fifth */
+/* Fifth */
 
 .women-shoes-5 {
   display: none;
 }
 
-/* sexth */
+/* Sixth */
 
 .women-shoes-6 {
   display: none;
@@ -625,4 +625,10 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr;
   } */
+
+  /* first */
+
+  .women-shoes-1 {
+    width: 422px;
+  }
 }
