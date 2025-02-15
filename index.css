@@ -682,6 +682,7 @@ footer {
     height: 261px;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
   }
 
   /* Fourth */
