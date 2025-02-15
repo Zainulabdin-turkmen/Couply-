@@ -803,14 +803,25 @@ footer {
   footer {
     display: flex;
     justify-content: space-between;
-    padding-top: 35px;
-    padding-left: 91px;
+    padding-left: 92px;
     padding-right: 83px;
   }
 
   .footer-container-first {
     flex-direction: column;
     padding: 0;
-    gap: 0;
+    gap: 55px;
+  }
+
+  .svg-p {
+    margin: 0;
+  }
+
+  .footer-container-second {
+    gap: 89px;
+  }
+
+  .p-1 {
+    align-self: end;
   }
 }
