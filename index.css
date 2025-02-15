@@ -639,4 +639,10 @@ footer {
     width: 422px;
     height: 261px;
   }
+
+  /* Third */
+
+  .women-shoes-3 {
+    display: unset;
+  }
 }
