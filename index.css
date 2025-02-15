@@ -676,6 +676,7 @@ footer {
   .women-shoes-3 {
     display: unset;
     background-image: url(./imgs/women-shoes-1.jpeg);
+    background-size: cover;
     width: 422px;
     height: 261px;
     display: flex;
