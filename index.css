@@ -742,7 +742,7 @@ footer {
     justify-content: space-between;
     border: 2px solid #000000;
     box-shadow: 4px 4px 0px 0px #000000;
-    border-radius: 3px;
+    border-radius: 4px;
   }
 
   .fifth {
@@ -750,6 +750,17 @@ footer {
     padding-top: 18px;
     padding-left: 20px;
     padding-bottom: 18px;
+  }
+
+  .fifth-1 {
+    background-color: #000000;
+    color: white;
+    width: 94px;
+    height: 40px;
+    text-align: center;
+    padding-top: 17px;
+    align-self: end;
+    border-radius: 3px;
   }
 
   /* sixth */
