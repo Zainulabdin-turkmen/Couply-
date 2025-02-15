@@ -656,6 +656,10 @@ footer {
     display: unset;
   }
 
+  .gred {
+    display: grid;
+  }
+
   /* first */
 
   .women-shoes-1 {
