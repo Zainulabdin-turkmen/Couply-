@@ -359,7 +359,7 @@ span {
 
 .View {
   color: black;
-  font-size: 22px;
+  font-size: 26px;
   display: flex;
   align-items: center;
 }
@@ -792,5 +792,8 @@ footer {
     padding-top: 17px;
     align-self: end;
     border-radius: 3px;
+  }
+
+  .eye-view {
   }
 }
