@@ -660,6 +660,8 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin-top: -100px;
+    margin-left: 65px;
+    margin-right: 65px;
   }
 
   /* first */
