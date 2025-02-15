@@ -695,6 +695,16 @@ footer {
     padding-bottom: 18px;
   }
 
+  .third-1 {
+    background-color: #000000;
+    color: white;
+    width: 94px;
+    height: 40px;
+    text-align: center;
+    padding-top: 17px;
+    align-self: end;
+  }
+
   /* Fourth */
 
   .women-shoes-4 {
