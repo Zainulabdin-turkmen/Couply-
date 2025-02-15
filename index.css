@@ -651,6 +651,9 @@ footer {
   .shoes-4 {
     display: none;
   }
+  .arrows-4 {
+    display: unset;
+  }
 
   /* first */
 
