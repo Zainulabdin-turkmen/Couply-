@@ -343,6 +343,17 @@ span {
 
 .women-shoes-5 {
   display: none;
+  background-size: cover;
+  background-position: 0%;
+  width: 349px;
+  height: 204px;
+  margin-top: 18px;
+  margin-left: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 2px solid #000000;
+  box-shadow: 4px 4px 0p;
 }
 
 /* Sixth */
