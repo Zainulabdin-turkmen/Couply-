@@ -645,4 +645,10 @@ footer {
   .women-shoes-3 {
     display: unset;
   }
+
+  /* Fourth */
+
+  .women-shoes-4 {
+    width: 422px;
+  }
 }
