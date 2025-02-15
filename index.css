@@ -652,4 +652,10 @@ footer {
     width: 422px;
     height: 261px;
   }
+
+  /* Fifth */
+
+  .women-shoes-5 {
+    display: unset;
+  }
 }
