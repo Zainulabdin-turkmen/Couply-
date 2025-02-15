@@ -645,6 +645,9 @@ footer {
   .shoes-2 {
     display: none;
   }
+  .arrows-2 {
+    display: unset;
+  }
   .shoes-4 {
     display: none;
   }
