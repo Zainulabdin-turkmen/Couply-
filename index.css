@@ -660,8 +660,8 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin-top: -100px;
-    margin-left: 65px;
-    margin-right: 65px;
+    margin-left: 68px;
+    margin-right: 68px;
     gap: 20px;
   }
 
@@ -795,6 +795,6 @@ footer {
   }
 
   .eye-view {
-    margin-left: 70px;
+    margin-left: 68px;
   }
 }
