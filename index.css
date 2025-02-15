@@ -681,6 +681,7 @@ footer {
     width: 422px;
     height: 261px;
     display: flex;
+    flex-direction: column;
   }
 
   /* Fourth */
