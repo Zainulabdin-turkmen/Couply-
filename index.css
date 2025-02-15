@@ -811,5 +811,6 @@ footer {
   .footer-container-first {
     flex-direction: column;
     padding: 0;
+    gap: 0;
   }
 }
