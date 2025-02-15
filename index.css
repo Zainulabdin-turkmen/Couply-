@@ -804,6 +804,8 @@ footer {
     display: flex;
     justify-content: space-between;
     padding-top: 35px;
+    padding-left: 91px;
+    padding-right: 83px;
   }
 
   .footer-container-first {
