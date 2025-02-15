@@ -732,6 +732,7 @@ footer {
 
   .women-shoes-5 {
     display: unset;
+    background-image: url(./imgs/women-things.jpeg);
     background-size: cover;
     background-position: 0;
     width: 422px;
@@ -741,7 +742,7 @@ footer {
     justify-content: space-between;
     border: 2px solid #000000;
     box-shadow: 4px 4px 0px 0px #000000;
-    border-radius: 4px;
+    border-radius: 3px;
   }
 
   /* sixth */
