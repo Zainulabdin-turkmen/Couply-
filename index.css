@@ -279,8 +279,13 @@ span {
 }
 
 /* thirth */
-
 .women-shoes-3 {
+  display: none;
+}
+
+/* forth */
+
+.women-shoes-4 {
   background-image: url(./imgs/ear-pad.jpeg);
   background-size: cover;
   background-position: 0%;
@@ -296,14 +301,14 @@ span {
   border-radius: 4px;
 }
 
-.thirth {
+.forth {
   background-color: white;
   padding-top: 18px;
   padding-bottom: 18px;
   padding-left: 20px;
 }
 
-.thirth-1 {
+.forth-1 {
   background-color: #000000;
   color: white;
   width: 94px;
