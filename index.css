@@ -811,6 +811,8 @@ footer {
     flex-direction: column;
     padding: 0;
     gap: 55px;
+    margin-top: 35px;
+    margin-bottom: 79px;
   }
 
   .svg-p {
