@@ -640,10 +640,14 @@ footer {
 
   /*sec-main  */
 
-  /* .gred {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-  } */
+  /* change names */
+
+  .shoes-2 {
+    display: none;
+  }
+  .shoes-4 {
+    display: none;
+  }
 
   /* first */
 
