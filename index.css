@@ -732,6 +732,16 @@ footer {
 
   .women-shoes-5 {
     display: unset;
+    background-size: cover;
+    background-position: 0;
+    width: 422px;
+    height: 261px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 2px solid #000000;
+    box-shadow: 4px 4px 0px 0px #000000;
+    border-radius: 4px;
   }
 
   /* sixth */
