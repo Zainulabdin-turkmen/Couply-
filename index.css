@@ -838,34 +838,36 @@ footer {
 
 @media only screen and (min-width: 1200px) {
   /* header section */
+  /* sec-1 */
+  .navbar {
+    padding-bottom: 67px;
+  }
   .navbar-container {
     margin-left: 153px;
     margin-right: 150px;
   }
 
-  .navbar {
-    padding-bottom: 67px;
+  .logo {
+    margin: 0;
   }
 
-  .gred-1 {
+  /* sec-2 */
+
+  .future-wrapper {
     display: flex;
   }
 
-  .h1-shopping {
-    width: 480px;
-  }
-
-  .line-2 {
-    border: none;
-  }
-
-  .navbar-container-1 {
+  .wrapper-1 {
     margin-left: 150px;
     margin-right: 68px;
   }
 
   .Shopping-stara {
     margin-left: 0;
+  }
+
+  .h1-shopping {
+    width: 480px;
   }
 
   .Shopping-stara img {
@@ -877,11 +879,11 @@ footer {
     margin-left: 0;
   }
 
-  .navbar-container-2 {
-    border-left: 1px solid #000000;
-    padding-left: 4rem;
-    padding-top: 50px;
+  .line-2 {
+    border: none;
   }
+
+  /* sec-3 */
 
   .second-line {
     margin: 0;
@@ -889,8 +891,10 @@ footer {
     gap: 0;
   }
 
-  .logo {
-    margin: 0;
+  .wrapper-2 {
+    border-left: 1px solid #000000;
+    padding-left: 4rem;
+    padding-top: 50px;
   }
 
   .header-download {
