@@ -489,10 +489,6 @@ footer {
     width: 630px;
   }
 
-  .amazon {
-    src: ;
-  }
-
   .Shopping-stara img {
     display: unset;
     margin-top: -11px;
@@ -834,7 +830,7 @@ footer {
   }
 }
 
-@media only screen and (min-width: 1300px) {
+@media only screen and (min-width: 1200px) {
   /* header section */
   .navbar-container {
     margin-left: 153px;
@@ -842,22 +838,69 @@ footer {
   }
 
   .gred-1 {
-    /* display: flex; */
+    display: flex;
   }
-
+  /* 
   .Shopping-stara {
     margin: 0;
-  }
+  } */
 
   .h1-shopping {
     width: 500px;
   }
 
-  .Shopping-stara img {
+  /* 
+  .Used-container {
+    margin: 0;
+  } */
+
+  .line-2 {
+    border: none;
+  }
+
+  .second-line-1 {
+    border-left: 1px solid #000000;
+  }
+
+  .second-line {
+    margin: 0;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .logo {
     margin: 0;
   }
 
-  .Used-container {
+  .header-download {
+    flex-direction: row;
+    padding: 0;
+    margin-bottom: 18px;
+  }
+
+  .Download {
+    width: 350px;
+  }
+
+  .header-visit {
+    flex-direction: row;
+    margin-bottom: 26px;
+  }
+
+  .visit {
+    width: 350px;
+  }
+
+  .header-save {
+    flex-direction: row;
+    margin-bottom: 55px;
+  }
+
+  .save {
+    width: 350px;
+  }
+
+  .last-div {
     margin: 0;
   }
 }
