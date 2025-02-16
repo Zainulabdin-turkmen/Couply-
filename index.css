@@ -853,8 +853,9 @@ footer {
     border: none;
   }
 
-  .second-line-1 {
+  .navbar-container-2 {
     border-left: 1px solid #000000;
+    padding-left: 4rem;
   }
 
   .second-line {
@@ -898,5 +899,6 @@ footer {
   .last-div {
     margin: 0;
     padding: 13px 20px;
+    margin-left: 4px;
   }
 }
