@@ -489,6 +489,10 @@ footer {
     width: 630px;
   }
 
+  .amazon {
+    src: ;
+  }
+
   .Shopping-stara img {
     display: unset;
     margin-top: -11px;
@@ -835,5 +839,25 @@ footer {
   .navbar-container {
     margin-left: 153px;
     margin-right: 150px;
+  }
+
+  .gred-1 {
+    /* display: flex; */
+  }
+
+  .Shopping-stara {
+    margin: 0;
+  }
+
+  .h1-shopping {
+    width: 500px;
+  }
+
+  .Shopping-stara img {
+    margin: 0;
+  }
+
+  .Used-container {
+    margin: 0;
   }
 }
