@@ -831,4 +831,8 @@ footer {
 }
 
 @media only screen and (min-width: 1300px) {
+  /* header section */
+  .navbar-container {
+    margin-left: 153px;
+  }
 }
