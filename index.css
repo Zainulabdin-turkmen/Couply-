@@ -852,7 +852,7 @@ footer {
   }
 
   .h1-shopping {
-    width: 500px;
+    width: 480px;
   }
 
   .line-2 {
@@ -860,10 +860,16 @@ footer {
   }
 
   .navbar-container-1 {
+    margin-left: 150px;
+    margin-right: 68px;
   }
 
   .Shopping-stara {
     margin-left: 0;
+  }
+
+  .Shopping-stara img {
+    margin-left: -10px;
   }
 
   .Used-container {
