@@ -837,6 +837,10 @@ footer {
     margin-right: 150px;
   }
 
+  .navbar {
+    padding-bottom: 67px;
+  }
+
   .gred-1 {
     display: flex;
   }
