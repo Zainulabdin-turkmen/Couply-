@@ -444,9 +444,9 @@ footer {
 
   .navbar-container {
     display: flex;
-    gap: 103px;
     margin-left: 97px;
     margin-right: 80px;
+    justify-content: space-between;
   }
 
   .logo {
@@ -835,6 +835,5 @@ footer {
   .navbar-container {
     margin-left: 153px;
     margin-right: 150px;
-    justify-content: space-between;
   }
 }
