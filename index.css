@@ -961,14 +961,15 @@ footer {
 
   /* main-sec */
 
-  .gred {
-    /* grid-template-columns: 545px 245px 297px;
-    grid-template-rows: 1fr 1fr 1fr; */
-  }
-
   /* first */
 
   .women-shoes-1 {
     width: 545px;
+  }
+
+  /* second */
+
+  .women-shoes-2 {
+    width: 245px;
   }
 }
