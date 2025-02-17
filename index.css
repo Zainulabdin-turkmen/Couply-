@@ -679,7 +679,7 @@ footer {
 
   .women-shoes-1 {
     width: 422px;
-    height: 261px;
+    height: 257px;
     margin: 0;
   }
 
@@ -687,7 +687,7 @@ footer {
 
   .women-shoes-2 {
     width: 422px;
-    height: 261px;
+    height: 257px;
     margin: 0;
   }
 
@@ -699,7 +699,7 @@ footer {
     background-size: cover;
     background-position: 0;
     width: 422px;
-    height: 261px;
+    height: 257px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -730,7 +730,7 @@ footer {
 
   .women-shoes-4 {
     width: 422px;
-    height: 261px;
+    height: 257px;
     margin: 0;
   }
 
@@ -742,7 +742,7 @@ footer {
     background-size: cover;
     background-position: 0;
     width: 422px;
-    height: 261px;
+    height: 257px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -777,7 +777,7 @@ footer {
     background-size: cover;
     background-position: 0;
     width: 422px;
-    height: 261px;
+    height: 257px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -957,5 +957,18 @@ footer {
     color: white;
     font-size: 20px;
     font-weight: 400;
+  }
+
+  /* main-sec */
+
+  .gred {
+    /* grid-template-columns: 545px 245px 297px;
+    grid-template-rows: 1fr 1fr 1fr; */
+  }
+
+  /* first */
+
+  .women-shoes-1 {
+    width: 545px;
   }
 }
