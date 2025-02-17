@@ -948,7 +948,8 @@ footer {
   }
 
   .View-1 {
-    /* color: white; */
+    color: white;
     font-size: 20px;
+    font-weight: 400;
   }
 }
