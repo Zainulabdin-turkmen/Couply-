@@ -204,6 +204,10 @@ span {
   gap: 77px;
 }
 
+.eye-view-1 {
+  display: none;
+}
+
 /* main-container */
 
 /* change names */
