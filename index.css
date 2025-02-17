@@ -934,4 +934,19 @@ footer {
     padding: 13px 20px;
     margin-left: 4px;
   }
+
+  /* section sec */
+
+  .eye-view-1 {
+    display: unset;
+    background-color: white;
+
+    display: flex;
+    gap: 11px;
+  }
+
+  .View-1 {
+    color: black;
+    font-size: 20px;
+  }
 }
