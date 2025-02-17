@@ -937,6 +937,10 @@ footer {
 
   /* section sec */
 
+  .later {
+    padding-left: 155px;
+  }
+
   .eye-view-1 {
     display: flex;
     gap: 11px;
