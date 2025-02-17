@@ -938,15 +938,17 @@ footer {
   /* section sec */
 
   .eye-view-1 {
-    display: unset;
-    background-color: white;
-
     display: flex;
     gap: 11px;
   }
 
+  .eye {
+    width: 24px;
+    height: 24px;
+  }
+
   .View-1 {
-    color: black;
+    color: white;
     font-size: 20px;
   }
 }
