@@ -962,42 +962,50 @@ footer {
   /* main-sec */
 
   .gred {
-    grid-template-columns: 1fr 245px 1fr;
+    grid-template-areas:
+      "shoes-1 shoes-2 shoes-4"
+      "shoes-3 shoes-5 shoes-6";
   }
 
   /* first */
 
   .women-shoes-1 {
     width: 545px;
+    grid-area: shoes-1;
   }
 
   /* second */
 
   .women-shoes-2 {
     width: 245px;
+    grid-area: shoes-2;
   }
 
   /* third */
 
   .women-shoes-3 {
     width: 365px;
+    grid-area: shoes-3;
   }
 
   /* fourth */
 
   .women-shoes-4 {
     width: 295px;
+    grid-area: shoes-4;
   }
 
   /* fifth */
 
   .women-shoes-5 {
     width: 421px;
+    grid-area: shoes-5;
   }
 
   /* sixth */
 
   .women-shoes-6 {
     width: 295px;
+    grid-area: shoes-6;
   }
 }
