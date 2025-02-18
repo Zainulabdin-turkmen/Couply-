@@ -1020,6 +1020,10 @@ footer {
 
   /* footer sec */
 
+  footer {
+    padding-left: 155px;
+  }
+
   .footer-container-first {
     margin-top: 2rem;
     margin-bottom: 50px;
