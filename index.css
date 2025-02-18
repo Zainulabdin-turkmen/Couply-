@@ -965,7 +965,7 @@ footer {
     grid-template-areas:
       "shoes-1 shoes-2 shoes-4"
       "shoes-3 shoes-5 shoes-6";
-    grid-template-columns: 1fr 245px 297px;
+    grid-template-columns: 1fr 1fr;
   }
 
   /* first */
@@ -1001,6 +1001,7 @@ footer {
   .women-shoes-5 {
     width: 421px;
     grid-area: shoes-5;
+    margin-left: -175px;
   }
 
   /* sixth */
