@@ -966,6 +966,7 @@ footer {
       "shoes-1 shoes-2 shoes-4"
       "shoes-3 shoes-5 shoes-6";
     grid-template-columns: 1fr 1fr;
+    margin-left: 155px;
   }
 
   /* first */
