@@ -1024,4 +1024,8 @@ footer {
     margin-top: 2rem;
     margin-bottom: 50px;
   }
+
+  .footer-container-second {
+    margin-top: 36px;
+  }
 }
